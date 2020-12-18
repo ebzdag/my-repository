@@ -1,3 +1,3 @@
 Erdem Bozdag new file 5
 
-It is just changed.
+It is just changed. This line was changed.
