@@ -1,3 +1,3 @@
 Erdem Bozdag new file 5
 
-This was also modified again.
+It is just changed. This line was changed.
